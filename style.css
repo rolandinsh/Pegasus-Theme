@@ -5,6 +5,36 @@ Github Theme URI: https://github.com/UCF/Pegasus-Theme
 Version: v0.1.0
 */
 
+/* UCF Header Styles */
+
+#UCFHBSearch_ucf fieldset #q {
+	line-height: 11px;
+	color: #000000;
+	padding: 2px!important;
+	font-size: 11px;
+	font-family: 'Lucida Grande',sans-serif;
+	height: 13px;
+	border-radius: 0;
+	webkit-border-radius: 0;
+	moz-border-radius: 0;
+	margin-bottom: 0;
+	margin-top: 1px;
+}
+
+select#UCFHBHeaderLinks {
+	height: 18px;
+	font-size: 11px;
+	color: #000000;
+	font-family: 'Lucida Grande', sans-serif;
+	border-radius: 0;
+	webkit-border-radius: 0;
+	moz-border-radius: 0;
+	margin-bottom: 0;
+	margin-top: 1px;
+	padding: 0;
+}
+
+
 .overhang {width:1000px;position:relative;left:-30px;}
 .right-column {margin-top:200px;}
 @media (min-width: 1200px) {
